@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>img/node.png</file>
+        <file>img/packet.png</file>
+        <file>img/direction.png</file>
+        <file>img/nodeTouched.png</file>
+    </qresource>
+</RCC>
